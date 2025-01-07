@@ -15,5 +15,5 @@
 [<img align="left" alt="Oscar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oscar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-[instagram]: https://www.instagram.com/oscarthehdlm
+[instagram]: https://www.instagram.com/theoscarceja
 [linkedin]: https://linkedin.com/in/oscar-ceja
